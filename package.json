@@ -1,0 +1,15 @@
+{
+  "name": "libreg",
+  "version": "1.0.0",
+  "description": "This package allows you to use popular regex(s) easily using a user-friendly library",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "regex",
+    "easyregex"
+  ],
+  "author": "./Ticker#5975",
+  "license": "MIT"
+}
