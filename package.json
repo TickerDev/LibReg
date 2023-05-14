@@ -1,6 +1,6 @@
 {
   "name": "libreg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package allows you to use popular regex(s) easily using a user-friendly library",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,10 @@
     "regex",
     "easyregex"
   ],
-  "author": "./Ticker#5975",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TickerDev/LibReg"
+  },
+    "author": "./Ticker#5975",
   "license": "MIT"
 }
