@@ -51,7 +51,7 @@ export class EasyRegex {
         return HexRegex.test(code);
 
     }
-       /**
+     /**
      * @explaination Validates that string is a phone number 
      * @example phoneNumberValidator("Phone number go BRRR") // Output: false
      * @example phoneNumberValidator("000-000-0000") // Output: true
